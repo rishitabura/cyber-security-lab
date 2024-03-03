@@ -74,9 +74,7 @@ int main()
     }
 
     double d = findInverse((int)e, (int)phiN);
-
     double m = 77;
-
     double c = modulo((int)m, (int)e, (int)n);
     double dm = modulo((int)c, (int)d, (int)n);
 
