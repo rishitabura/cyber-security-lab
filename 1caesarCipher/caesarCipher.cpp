@@ -64,7 +64,5 @@ int main()
     cout <<  "Encrypted key : " <<  encryptKey << endl;
     cout << "Decrypted key : " << decryption(encryptKey, shift);
 
-    
-
     return 0;
 }
